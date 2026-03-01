@@ -1,1 +1,2 @@
-# Malaria-Detection-App
+Malaria-Detection-using-Deep-Learning
+
